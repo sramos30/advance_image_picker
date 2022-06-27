@@ -1,5 +1,10 @@
 # advance_image_picker
 
+## git@github.com:sramos30/advance_image_picker.git
+## https://github.com/weta-vn/advance_image_picker
+## https://pub.dev/packages/advance_image_picker
+
+
 Flutter plugin for selecting **multiple images** from the Android and iOS image library, **taking new pictures with the camera**, and **edit** them before using such as rotating, cropping, adding sticker/filters.
 
 *This is an advanced version of [image_picker](https://pub.dev/packages/image_picker) plugin.*
